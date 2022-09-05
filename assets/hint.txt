@@ -1,0 +1,2 @@
+In this folder we can create the js and css, by using the src/ folder
+and bundling the js and scss files with wp-scripts.

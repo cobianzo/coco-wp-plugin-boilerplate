@@ -1,0 +1,9 @@
+Here we can introduce other classes for specific actions, such as a Helper. introduce
+
+
+<?php
+namespace AwesomePlugin\Inc;
+
+class Helper {
+  //....code here
+}
